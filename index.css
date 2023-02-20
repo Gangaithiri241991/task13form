@@ -1,0 +1,34 @@
+  table{
+ border-collapse: collapse;
+ width:90%
+  }
+  th, td {
+    text-align: left;
+    padding: 6px;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2}
+  .rectangle{
+    height: 900px;
+    width: 800px;
+    border:solid black;
+    
+  }
+  .posi{
+    text-align:left;
+    color:orange;
+    opacity:0.5;
+  }
+  .rec{
+    text-align: left;
+    padding-left: 3px;
+  }
+  .f{
+    text-align: left;
+    padding:12px;
+  }
+  
+textarea{
+    width:700px;
+    height:100px;
+  }
+ 
